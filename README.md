@@ -2,7 +2,7 @@
 
 A simple (and incomplete) Pokédex-like application built with React. Currently a mirror from a Gitlab repository.
 
-Credit to [@TIC](https://github.com/calvetalex/): he built it all!
+You can find the backend linked to this project [here](https://github.com/Haltarys/Pokedex-Server) thanks to [Haltarys](https://github.com/Haltarys)
 
 ## Deployement
 
